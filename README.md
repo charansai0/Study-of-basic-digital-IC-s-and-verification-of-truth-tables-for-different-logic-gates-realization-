@@ -87,11 +87,11 @@ xnor(y7,a,b);
 endmodule
 ```
 ## Logic symbol & Truthtable
-![output]()
+![output](https://github.com/charansai0/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/blob/main/de%20ex1-2.PNG?raw=true)
 ## RTL realization 
 
 ## Output:
-![output]()
+![output](https://github.com/charansai0/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/blob/main/de%20ex1.PNG?raw=true)
 
 ## Result:
 Thus the different digital IC’s are studied and the truth table for different logic gates are verified.
